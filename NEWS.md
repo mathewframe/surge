@@ -1,3 +1,3 @@
-# surge (development version)
+# surge 0.1.0
 
-* Initial CRAN submission.
+* Added a scarcity risk calculator.

@@ -17,3 +17,6 @@ Imports:
     jsonlite,
     magrittr,
     tibble
+Depends: 
+    R (>= 3.5)
+LazyData: true
